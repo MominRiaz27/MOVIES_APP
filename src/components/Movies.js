@@ -11,7 +11,7 @@ const Movie = ({title, poster_path, overview, vote_average}) =>{
             <span>{vote_average}</span>
         </div>
         <div className="movie-over">
-            <h2>Overview: </h2>
+        <h2>Overview: </h2>
             <p>{overview}</p>
         </div>
     </div>
