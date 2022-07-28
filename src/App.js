@@ -22,7 +22,7 @@ function App() {
  
     <header>
       <form onSubmit={handleonsubmit}>
-        <input className="search" type="text" placeholder="Search..."></input>
+      <input className="search" type="text" placeholder="Search..."></input>
       </form>
     </header>
     <div className="movie-container">
