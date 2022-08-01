@@ -1,4 +1,4 @@
-> Project's Title
+> Project Title
 # Movies_App
 # Project Description
 - In this project you can view the latest movies along with their reviews, ratings and poster image. you can also search your desired movie through search bar.
