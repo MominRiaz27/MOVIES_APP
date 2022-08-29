@@ -21,9 +21,7 @@
 - On start of the project , movies can be seen in a grid view with their poster, name and rating. On hover over the movie the short overview of the Movie displayed, overview disappear when cursor removes. you can also search your desired movie ny using the right top search bar.  
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/93713996/182186416-81a113a6-b48d-4af5-9e6e-3a38fdd5a615.png)
-## Acknowledgements
-- This project is learned from Florinpop (https://www.florin-pop.com/)
-- https://www.youtube.com/watch?v=sZ0bZGfg_m4&t=2212s
+
 ## Contact
 - Gmail: Momin.Riaz427@gmail.com
 
